@@ -1,0 +1,6 @@
+D:\MyLearns\GIT\Design_Patterns\strategy-Method-Design_1\Strategy-Method-Design\Strategy-Method-Design\Strategy-Method-Design\bin\Debug\Strategy-Method-Design.exe.config
+D:\MyLearns\GIT\Design_Patterns\strategy-Method-Design_1\Strategy-Method-Design\Strategy-Method-Design\Strategy-Method-Design\bin\Debug\Strategy-Method-Design.exe
+D:\MyLearns\GIT\Design_Patterns\strategy-Method-Design_1\Strategy-Method-Design\Strategy-Method-Design\Strategy-Method-Design\bin\Debug\Strategy-Method-Design.pdb
+D:\MyLearns\GIT\Design_Patterns\strategy-Method-Design_1\Strategy-Method-Design\Strategy-Method-Design\Strategy-Method-Design\obj\Debug\Strategy-Method-Design.csproj.CoreCompileInputs.cache
+D:\MyLearns\GIT\Design_Patterns\strategy-Method-Design_1\Strategy-Method-Design\Strategy-Method-Design\Strategy-Method-Design\obj\Debug\Strategy-Method-Design.exe
+D:\MyLearns\GIT\Design_Patterns\strategy-Method-Design_1\Strategy-Method-Design\Strategy-Method-Design\Strategy-Method-Design\obj\Debug\Strategy-Method-Design.pdb
